@@ -52,7 +52,11 @@ Frontend → Backend → Database → Alerts System
 
 ## 📸 System Screenshots
 
-> Add your screenshots here (Login, Dashboard, Product Page, Alerts, Reports)
+<img width="1903" height="844" alt="Screenshot 2026-03-24 183936" src="https://github.com/user-attachments/assets/08071c0a-27f2-4b3e-8727-13ac8316de42" />
+
+<img width="1919" height="865" alt="Screenshot 2026-03-24 182818" src="https://github.com/user-attachments/assets/0990d201-85d3-43a1-a710-bd228b0ed17d" />
+
+<img width="1919" height="908" alt="Screenshot 2026-03-24 183529" src="https://github.com/user-attachments/assets/9ddcc29b-c812-4ec4-8dca-774aa270d76a" />
 
 ---
 
